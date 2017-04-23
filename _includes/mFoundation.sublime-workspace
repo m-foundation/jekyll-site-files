@@ -1,0 +1,1389 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-centered"
+			],
+			[
+				"text-de",
+				"text-decoration"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"bu",
+				"buttonsToWhite"
+			],
+			[
+				"cen",
+				"align-content"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"post",
+				"postgres"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"dron",
+				"droneIcon"
+			],
+			[
+				"con",
+				"contentBox"
+			],
+			[
+				"ma",
+				"marker"
+			],
+			[
+				"dro",
+				"droneIcon"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ov",
+				"overflow-y"
+			],
+			[
+				"vid",
+				"videoPlaylist"
+			],
+			[
+				"vi",
+				"videoPlaylist"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"pla",
+				"playerInstance"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"se",
+				"setupPositionTimeData"
+			],
+			[
+				"posi",
+				"positionTimeData"
+			],
+			[
+				"s",
+				"srtFile"
+			],
+			[
+				"geo",
+				"geoJsonFile"
+			],
+			[
+				"lo",
+				"loadPath"
+			],
+			[
+				"ge",
+				"geoJsonFile"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"el",
+				"electricPoles"
+			],
+			[
+				"all",
+				"allSegments"
+			],
+			[
+				"set",
+				"setLatLng"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"po",
+				"positionTimeData"
+			],
+			[
+				"vd",
+				"videoFile"
+			],
+			[
+				"vide",
+				"videoFile"
+			],
+			[
+				"Poin",
+				"pointToPXy"
+			],
+			[
+				"a",
+				"aXys"
+			],
+			[
+				"load",
+				"loadJSONFile"
+			],
+			[
+				"read",
+				"readTextFile"
+			],
+			[
+				"it",
+				"iterator"
+			],
+			[
+				"is",
+				"isNonTerminal"
+			],
+			[
+				"ger",
+				"getNonterminal"
+			],
+			[
+				"pr",
+				"prod"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"com",
+				"compile"
+			],
+			[
+				"st",
+				"start_playlist\tstatement"
+			],
+			[
+				"video",
+				"videos_to_play\tstatement"
+			],
+			[
+				"fi",
+				"file_type\tstatement"
+			],
+			[
+				"guee",
+				"guess_type\tfunction"
+			],
+			[
+				"emi",
+				"emitProgess\tparam"
+			],
+			[
+				"Ke",
+				"KeyError\tclass"
+			],
+			[
+				"GEOR",
+				"GEOTAG_TOLERANCE\tstatement"
+			],
+			[
+				"PHO",
+				"OUTPUT_PHOTO_CSV_FILE_NAME\tstatement"
+			],
+			[
+				"GEO",
+				"GEOTAGGED_IMAGES_FOLDER\tstatement"
+			],
+			[
+				"fil",
+				"filtered_images\tstatement"
+			],
+			[
+				"OU",
+				"OUTPUT_CAM_CSV_FILE_NAME\tstatement"
+			],
+			[
+				"ima",
+				"image\tforstmt"
+			],
+			[
+				"ca",
+				"cam_file_path\tparam"
+			],
+			[
+				"image",
+				"image_data\tstatement"
+			],
+			[
+				"cam",
+				"cam_msgs_match_images\tstatement"
+			],
+			[
+				"KMLP",
+				"KMLPolygon\tclass"
+			],
+			[
+				"KML",
+				"KMLLinearRing\tclass"
+			],
+			[
+				"kml",
+				"kmlFile\twithstmt"
+			],
+			[
+				"E",
+				"ElementTree\tmodule"
+			],
+			[
+				"KM",
+				"KMLGeometry\tclass"
+			],
+			[
+				"fea",
+				"features\tPyQt Functions"
+			],
+			[
+				"desc",
+				"description\tPyQt Functions"
+			],
+			[
+				"tall",
+				"tall_y\tstatement"
+			],
+			[
+				"ta",
+				"tall_x\tstatement"
+			],
+			[
+				"cal",
+				"calibrated_error\tfunction"
+			],
+			[
+				"coo",
+				"coord_details\tforstmt"
+			],
+			[
+				"gro",
+				"group_leader_coords\tparam"
+			],
+			[
+				"SAM",
+				"SAMPLE_Y_ERROR\tstatement"
+			],
+			[
+				"short",
+				"short_y\tstatement"
+			],
+			[
+				"pile",
+				"pile_groups\tstatement"
+			],
+			[
+				"sha",
+				"shapes\tfunction"
+			],
+			[
+				"iter",
+				"itertools\tmodule"
+			],
+			[
+				"areaLocation",
+				"areaLocationPath\tstatement"
+			],
+			[
+				"pho",
+				"photoLocationPath\tstatement"
+			],
+			[
+				"fol",
+				"folderPath\tstatement"
+			],
+			[
+				"photo",
+				"photoExtension\tstatement"
+			],
+			[
+				"exist",
+				"exists\tfunction"
+			],
+			[
+				"sa",
+				"samplePhotoPath\tstatement"
+			],
+			[
+				"stat",
+				"statusBar\tparam"
+			],
+			[
+				"showMe",
+				"showMessage\tPyQt Functions"
+			],
+			[
+				"sta",
+				"statusBar\tparam"
+			],
+			[
+				"Qla",
+				"QLabel\timport"
+			],
+			[
+				"c",
+				"createStatusBar\tfunction"
+			],
+			[
+				"area",
+				"areaLocationPathLineEdit\tstatement"
+			],
+			[
+				"photol",
+				"photoLocationPathLineEdit\tstatement"
+			],
+			[
+				"crea",
+				"createChunkButton\tstatement"
+			],
+			[
+				"value",
+				"valueChanged\tPyQt Functions"
+			],
+			[
+				"su",
+				"summaryDescription\tstatement"
+			],
+			[
+				"ini",
+				"initializePhotoLocations\tfunction"
+			],
+			[
+				"p",
+				"photoLocationCount\tfunction"
+			],
+			[
+				"forma",
+				"format\tfunction"
+			],
+			[
+				"setTe",
+				"setText\tPyQt Functions"
+			],
+			[
+				"folder",
+				"folderPathDescription\tstatement"
+			],
+			[
+				"phot",
+				"photoDestination\tstatement"
+			],
+			[
+				"make",
+				"makedirs\tfunction"
+			],
+			[
+				"are",
+				"areaLocations\tstatement"
+			],
+			[
+				"f",
+				"folderPath\tstatement"
+			],
+			[
+				"areaLocationPathLa",
+				"areaLocationPathLayout\tstatement"
+			],
+			[
+				"areaLo",
+				"areaLocationPathLayout\tstatement"
+			],
+			[
+				"photoloc",
+				"photoLocationPathBrowse\tstatement"
+			],
+			[
+				"ph",
+				"photoLocationPathLineEdit\tstatement"
+			],
+			[
+				"setRea",
+				"setReadOnly\tPyQt Functions"
+			],
+			[
+				"QLine",
+				"QLineEdit\tPyQt Classes"
+			],
+			[
+				"fo",
+				"folderPathLabel\tstatement"
+			],
+			[
+				"folderPat",
+				"folderPathBrowse\tstatement"
+			],
+			[
+				"QFile",
+				"QFileDialog\tPyQt Classes"
+			],
+			[
+				"poin",
+				"point_inside_polygon\tfunction"
+			],
+			[
+				"CRO",
+				"CROSSSECTION_LENGTH\tstatement"
+			],
+			[
+				"crossSec",
+				"crossSectionSeparationLineEdit\tstatement"
+			],
+			[
+				"cs",
+				"csvfile\twithstmt"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "trustees.html",
+			"settings":
+			{
+				"buffer_size": 12868,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 6316,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 2024,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "beneficiaries.html",
+			"settings":
+			{
+				"buffer_size": 6532,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "beneficiaries.html"
+			}
+		},
+		{
+			"file": "projects.html",
+			"settings":
+			{
+				"buffer_size": 2642,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/samhattangady/projects/mFoundation/_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 384,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++11/C++11.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"bui",
+				"Build With: C++11 - Run"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"vim",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"activ",
+				"Material Theme: Activate theme"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/samhattangady/projects/mFoundation",
+		"/home/samhattangady/projects/mFoundation/_includes"
+	],
+	"file_history":
+	[
+		"/home/samhattangady/projects/mFoundation/_includes/nav.html",
+		"/home/samhattangady/projects/skylark/utility_inspection/app/models/inspection.rb",
+		"/home/samhattangady/projects/skylark/utility_inspection/app/views/inspections/video.html.haml",
+		"/home/samhattangady/projects/skylark/utility_inspection/Gemfile",
+		"/home/samhattangady/projects/skylark/utility_inspection/app/assets/javascripts/dashboard.coffee",
+		"/home/samhattangady/projects/skylark/utility_inspection/app/controllers/inspections_controller.rb",
+		"/home/samhattangady/projects/skylark/utility_inspection/app/assets/javascripts/content.js",
+		"/home/samhattangady/projects/skylark/utility_inspection/data/project-1/jan17.geojson",
+		"/home/samhattangady/projects/skylark/utility_inspection/data/project-1/feb17.geojson",
+		"/home/samhattangady/projects/skylark/utility_inspection/app/assets/stylesheets/custom.css",
+		"/home/samhattangady/projects/skylark/utility_inspection/app/views/home/show.html.haml",
+		"/home/samhattangady/projects/skylark/utility_inspection/data/project-1/mar17.geojson",
+		"/home/samhattangady/projects/skylark/utility_inspection/lib/tasks/populate_data.rake",
+		"/home/samhattangady/projects/skylark/utility_inspection/app/assets/javascripts/sketch.js",
+		"/home/samhattangady/projects/skylark/utility_inspection/app/views/shared/_header.html.haml",
+		"/home/samhattangady/projects/skylark/utility_inspection/app/views/inspections/fab.html.haml",
+		"/home/samhattangady/projects/skylark/utility_inspection/app/views/shared/_footer.html.haml",
+		"/home/samhattangady/projects/skylark/utility_inspection/Gemfile.lock",
+		"/home/samhattangady/projects/skylark/utility_inspection/config/database.yml",
+		"/home/samhattangady/Desktop/s.h",
+		"/home/samhattangady/projects/skylark/utili-view/rotatedMarker.js",
+		"/home/samhattangady/projects/skylark/utili-view/main.js",
+		"/home/samhattangady/projects/skylark/utili-view/flight_path.json",
+		"/home/samhattangady/projects/skylark/utili-view/Video.js",
+		"/home/samhattangady/projects/skylark/utili-view/Map.js",
+		"/home/samhattangady/projects/skylark/utili-view/jw/index.html",
+		"/home/samhattangady/projects/skylark/utili-view/jw/jwplayer/jwplayer.js",
+		"/home/samhattangady/projects/skylark/utili-view/index2.html",
+		"/home/samhattangady/projects/skylark/utili-view/MovingMarker.js",
+		"/home/samhattangady/projects/skylark/utili-view/DroneMarker.js",
+		"/home/samhattangady/projects/skylark/utili-view/Map2.js",
+		"/home/samhattangady/projects/skylark/index.html",
+		"/home/samhattangady/projects/learning/ProgrammingParadigms/assignments/assn-1-rsg/definition.cc",
+		"/home/samhattangady/projects/learning/ProgrammingParadigms/assignments/assn-1-rsg/definition.h",
+		"/home/samhattangady/projects/learning/ProgrammingParadigms/assignments/assn-1-rsg/production.cc",
+		"/home/samhattangady/projects/learning/ProgrammingParadigms/assignments/assn-1-rsg/rsg.cc",
+		"/home/samhattangady/bin/playall-2",
+		"/home/samhattangady/projects/skylark/dronecubator-mission-control/flightcolumndict.py",
+		"/home/samhattangady/projects/skylark/dronecubator-mission-control/droneloganalyser.py",
+		"/home/samhattangady/projects/skylark/dronecubator-mission-control/kmlcreatorthread.py",
+		"/home/samhattangady/projects/skylark/dronecubator-mission-control/tests/test_geotagger.py",
+		"/home/samhattangady/projects/skylark/skykml/.gitignore",
+		"/home/samhattangady/projects/skylark/skykml/api_definition_notes.txt",
+		"/home/samhattangady/projects/skylark/skykml/features.py",
+		"/home/samhattangady/projects/skylark/skykml/geometries.py",
+		"/home/samhattangady/projects/skylark/skykml/abstract.py",
+		"/home/samhattangady/projects/skylark/skykml/skykml.py",
+		"/home/samhattangady/projects/skylark/chunker/chunker.py",
+		"/home/samhattangady/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/samhattangady/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/samhattangady/downloads/pic in polygon.py",
+		"/home/samhattangady/projects/DevDiary/devdiary.py",
+		"/home/samhattangady/projects/skylark/photo_segregation/p2.py",
+		"/home/samhattangady/projects/skylark/photo_segregation/dmc-v1.6.dev.log",
+		"/home/samhattangady/projects/skylark/qgis_plugins/fishboner/README.md",
+		"/home/samhattangady/projects/skylark/qgis_plugins/README.md",
+		"/home/samhattangady/projects/skylark/qgis_plugins/fishboner/form.py",
+		"/home/samhattangady/projects/skylark/fishboner/fishboner_plugin.py",
+		"/home/samhattangady/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/samhattangady/projects/skylark/fishboner/helpers.py",
+		"/home/samhattangady/projects/skylark/fishboner/fishbonetool.py",
+		"/home/samhattangady/projects/skylark/fishboner/gis_operations.py",
+		"/home/samhattangady/projects/skylark/fishboner/form.ui",
+		"/home/samhattangady/projects/skylark/fishboner/metadata.txt",
+		"/home/samhattangady/projects/dronecubator-mission-control/tests/test_droneloganalyser.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/tests/test_flightMath.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/tests/test_geotagger.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/tests/test_zipHelper.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/simplekml/region.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/tests/__init__.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/unit_tests.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/README.md",
+		"/home/samhattangady/projects/dronecubator-mission-control/geotaggerthread.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/ui/notes.txt",
+		"/home/samhattangady/projects/dronecubator-mission-control/.gitignore",
+		"/home/samhattangady/projects/dronecubator-mission-control/requirements.txt",
+		"/home/samhattangady/projects/dronecubator-mission-control/geotagger.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/droneloganalyser.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/ui/GenerateKMLPage.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/dronecubatormissioncontrol.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/flightmath.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/flightcolumndict.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/images.py",
+		"/usr/lib/python2.7/logging/__init__.py",
+		"/usr/lib/python2.7/collections.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/ui/UnitOverviewPage.py",
+		"/home/samhattangady/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/samhattangady/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+		"/home/samhattangady/.config/sublime-text-3/Packages/Anaconda/README.md",
+		"/usr/lib/python2.7/pydoc.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/createdocs.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/ui/HomePage.py",
+		"/home/samhattangady/projects/dronecubator-mission-control/simplekml/__init__.py",
+		"/home/samhattangady/projects/cppPractice/ThinkLikeProgrammer/foo.cpp",
+		"/home/samhattangady/projects/cppPractice/half_square.cpp",
+		"/home/samhattangady/projects/cppPractice/test.cpp",
+		"/home/samhattangady/projects/linter/lint.py",
+		"/home/samhattangady/videos/Parks and Recreation/createListing.py",
+		"/home/samhattangady/videos/Parks and Recreation/renamer.py"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"`",
+			"UtilityInspection",
+			"token",
+			"width",
+			"docu",
+			"19px",
+			"Account",
+			"Support",
+			"json",
+			"key",
+			"maps",
+			"fill",
+			"console",
+			"loadCsv",
+			"rotat",
+			"setRo",
+			"        aboutlink: \"https://www.skylarkdrones.com/\",\n",
+			"function",
+			"track",
+			"();",
+			">\n",
+			"current_pile",
+			"combo",
+			"combination",
+			"statusLab",
+			"lint",
+			"logitudinalSectionLayer",
+			"find_z_value",
+			"add_point",
+			"lint",
+			"longitudinal_layer",
+			"dem_layer",
+			"centreline_layer",
+			"dem_layer_selection",
+			"centreline_layer_selection",
+			"layer_selection",
+			"startSpinBox",
+			"create_points_at",
+			"https://github.com/mach0/qchainage.git",
+			"startSpinBox",
+			"okbutton",
+			"lint",
+			"verifyFlightImages",
+			"verify",
+			"generate",
+			"Verify",
+			"reportlab",
+			"lint",
+			"geotagger",
+			"GT",
+			"Geotagger",
+			"QPalette",
+			"def emitMessage",
+			"emitMessage",
+			"stat ",
+			"stat(",
+			"stat",
+			"calculate_truncation_percentage",
+			"process_line",
+			"verifyFlightImages",
+			"Verify Images",
+			"createUnit",
+			"Create Unit",
+			"Create",
+			"endl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "trustees.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12868,
+								12868
+							]
+						],
+						"settings":
+						{
+							"git_gutter_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								302
+							]
+						],
+						"settings":
+						{
+							"git_gutter_enabled": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								644,
+								644
+							]
+						],
+						"settings":
+						{
+							"git_gutter_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "beneficiaries.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								743,
+								743
+							],
+							[
+								2612,
+								2612
+							],
+							[
+								4167,
+								4167
+							],
+							[
+								5284,
+								5284
+							]
+						],
+						"settings":
+						{
+							"auto_name": "beneficiaries.html",
+							"git_gutter_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "projects.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1215,
+								1215
+							]
+						],
+						"settings":
+						{
+							"git_gutter_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/samhattangady/projects/mFoundation/_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"git_gutter_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mFoundation.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cus",
+				"app/assets/stylesheets/custom.css"
+			],
+			[
+				"ske",
+				"app/assets/javascripts/sketch.js"
+			],
+			[
+				"haml",
+				"app/views/inspections/video.html.haml"
+			],
+			[
+				"con",
+				"app/assets/javascripts/content.js"
+			],
+			[
+				"ins",
+				"app/controllers/inspections_controller.rb"
+			],
+			[
+				"coffee",
+				"app/assets/javascripts/dashboard.coffee"
+			],
+			[
+				"feb",
+				"data/project-1/feb17.geojson"
+			],
+			[
+				"jan",
+				"data/project-1/jan17.geojson"
+			],
+			[
+				"inspection",
+				"app/controllers/inspections_controller.rb"
+			],
+			[
+				"vi",
+				"app/views/inspections/video.html.haml"
+			],
+			[
+				"ma",
+				"data/project-1/mar17.geojson"
+			],
+			[
+				"pop",
+				"lib/tasks/populate_data.rake"
+			],
+			[
+				"hea",
+				"app/views/shared/_header.html.haml"
+			],
+			[
+				"da",
+				"config/database.yml"
+			],
+			[
+				"fab",
+				"app/views/inspections/fab.html.haml"
+			],
+			[
+				"html",
+				"app/views/home/show.html.haml"
+			],
+			[
+				"vide",
+				"app/views/inspections/video.html.haml"
+			],
+			[
+				"",
+				"config/database.yml"
+			],
+			[
+				"main",
+				"main.js"
+			],
+			[
+				"a",
+				"Afeb17.json"
+			],
+			[
+				"m",
+				"main.js"
+			],
+			[
+				"jw/j",
+				"jw/jwplayer/jwplayer.js"
+			],
+			[
+				"jw",
+				"jw/index.html"
+			],
+			[
+				"test",
+				"tests/test_geotagger.py"
+			],
+			[
+				"kml",
+				"kmlcreatorthread.py"
+			],
+			[
+				"no",
+				"notes.txt"
+			],
+			[
+				"pdf",
+				"pdfhelper.py"
+			],
+			[
+				"req",
+				"requirements.txt"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"note",
+				"ui/notes.txt"
+			],
+			[
+				"nore",
+				".gitignore"
+			],
+			[
+				"geora",
+				"geotagger.py"
+			],
+			[
+				"geo",
+				"geotagger.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/skylark/utili-view/utiliview.sublime-project"
+			],
+			[
+				"srt",
+				"~/projects/skylark/srt_things/srt_things.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Qt",
+				"qInitResources"
+			],
+			[
+				"",
+				"Dict"
+			],
+			[
+				"drone",
+				"DroneCubatorMissionControl"
+			]
+		],
+		"width": 374.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

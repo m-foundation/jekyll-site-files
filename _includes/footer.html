@@ -1,0 +1,50 @@
+    <!-- Footer -->
+    <footer class="text-center" id="footer">
+        <div class="footer-above">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col col-md-12">
+                        <h2>Contact</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="footer-col col-md-4">
+                        <h3>{{ site.footer.address }}</h3>
+                        <p>
+                            {% for adress in site.address %}
+                                {{ adress.line }} <br>
+		                    {% endfor %}
+                        </p>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3>{{ site.footer.email }}</h3>
+                        <p>{{ site.email1 }}<br>
+                        {{ site.email2 }}<br>
+                        {{ site.email3 }}</p>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3>{{ site.footer.phone }}</h3>
+                        <p>{{ site.number1 }}<br>
+                        {{ site.number2 }}<br>
+                        {{ site.number3 }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-below">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p><a href="m-foundation.in">http://m-foundation.in</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+    <div class="scroll-top page-scroll visible-xs visible-sm">
+        <a class="btn btn-primary" href="#page-top">
+            <i class="fa fa-chevron-up"></i>
+        </a>
+    </div>

@@ -1,0 +1,38 @@
+# Site settings
+title: M Foundation
+description: "M Foundation - An organisation from Malnad College of Engineering (MCE) set up to provide financial aid to develop future minds."
+motto: "Aanandinaha Aanandayati - Happy People Make People Happy"
+
+# Trustee details
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: d79763 #80B3FF
+  secondary: 444444 #FD6E8A
+  secondary-dark: 333333 #A2122F
+
+# Footer settings
+footer:
+  copyright: Dr. Henry Jekyll
+  address: Address
+  email: email
+  phone: Call us
+
+# contact details
+address:
+  - line: M FOUNDATION REGD
+  - line: 404, Kalpak Arcade,
+  - line: Church Street,
+  - line: Bangalore 560001
+
+email1: harin_hattangady@yahoo.co.in
+email2: ravishanker10@rediffmail.com
+email3: shettysps@gmail.com
+
+number1: +91 9448043485
+number2: +91 9591347298
+number3: +91 9811113044
+
+# Build settings
+markdown: kramdown
+permalink: pretty
